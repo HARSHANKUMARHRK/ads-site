@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/ads-sitp/static/css/main.c665cfb5.css",
+    "main.js": "/ads-sitp/static/js/main.15a4e551.js",
+    "static/media/11.png": "/ads-sitp/static/media/11.d3c4e577165a41f575e8.png",
+    "static/media/a1.jpeg": "/ads-sitp/static/media/a1.1f561c00ce916c8a7e6a.jpeg",
+    "static/media/cisco.png": "/ads-sitp/static/media/cisco.64fd65c5146ce9ef5d25.png",
+    "static/media/avasoft.png": "/ads-sitp/static/media/avasoft.907a2c84c85cdde7c268.png",
+    "static/media/accenture.png": "/ads-sitp/static/media/accenture.8082a4b7dc047f0fc408.png",
+    "static/media/bus.jpg": "/ads-sitp/static/media/bus.3cdfdd762da045dfce1f.jpg",
+    "static/media/i2.jpeg": "/ads-sitp/static/media/i2.eb6370d0dfc54095fe79.jpeg",
+    "static/media/wipro.png": "/ads-sitp/static/media/wipro.3157467e6aeb1b688988.png",
+    "static/media/c1.jpeg": "/ads-sitp/static/media/c1.096ac9763babe7d91143.jpeg",
+    "static/media/food.png": "/ads-sitp/static/media/food.4b32153b0da9cbb35e1b.png",
+    "static/media/i5.jpeg": "/ads-sitp/static/media/i5.d550c1f697fcd8c425b6.jpeg",
+    "static/media/b4.jpeg": "/ads-sitp/static/media/b4.9baa50ca6658104b2520.jpeg",
+    "static/media/m3.jpeg": "/ads-sitp/static/media/m3.8cc264c9499ddf0614ca.jpeg",
+    "static/media/14.jpeg": "/ads-sitp/static/media/14.43b5b26dd87f91d23f50.jpeg",
+    "static/media/i7.jpeg": "/ads-sitp/static/media/i7.10caffad8b7b8b1d0f4d.jpeg",
+    "static/media/12.jpeg": "/ads-sitp/static/media/12.4c1e95109c71b1a929c1.jpeg",
+    "static/media/b5.jpeg": "/ads-sitp/static/media/b5.747240173e6d89512281.jpeg",
+    "static/media/cognizant.png": "/ads-sitp/static/media/cognizant.397dd770c1dcbea73f72.png",
+    "static/media/b7.jpeg": "/ads-sitp/static/media/b7.e486850816454a041e08.jpeg",
+    "static/media/13.jpeg": "/ads-sitp/static/media/13.b16dc3c8cd5f1878aa87.jpeg",
+    "static/media/i1.jpeg": "/ads-sitp/static/media/i1.1dc739718e8e3a733ca7.jpeg",
+    "static/media/b3.jpeg": "/ads-sitp/static/media/b3.70c8af538736c9ce1fe2.jpeg",
+    "static/media/mindtree.png": "/ads-sitp/static/media/mindtree.d55875fdec37d3afc459.png",
+    "static/media/w2.jpeg": "/ads-sitp/static/media/w2.92354d0d7630bcc132a8.jpeg",
+    "static/media/p2.jpeg": "/ads-sitp/static/media/p2.bcc500c146d63922d497.jpeg",
+    "static/media/ads_poster.jpeg": "/ads-sitp/static/media/ads_poster.c1355dc2ab2a7b8b864c.jpeg",
+    "static/media/m1.jpeg": "/ads-sitp/static/media/m1.b64a7117fed75d74c251.jpeg",
+    "static/media/p3.jpeg": "/ads-sitp/static/media/p3.ad4167f7e50ab83e235e.jpeg",
+    "static/media/adobe.png": "/ads-sitp/static/media/adobe.d41725c3e13f080f6fee.png",
+    "static/media/zoho.png": "/ads-sitp/static/media/zoho.a4800c71e2197a1ef657.png",
+    "index.html": "/ads-sitp/index.html",
+    "main.c665cfb5.css.map": "/ads-sitp/static/css/main.c665cfb5.css.map",
+    "main.15a4e551.js.map": "/ads-sitp/static/js/main.15a4e551.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c665cfb5.css",
+    "static/js/main.15a4e551.js"
+  ]
+}
